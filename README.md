@@ -9,6 +9,7 @@ This project requires the following dependencies for Windows:
 
 * [cygwin](https://www.cygwin.com/)
 * [Flip 3.4.7.112](http://www.atmel.com/tools/flip.aspx)
+* [Atmel AVR 8-bit Toolchain 3.5.4](http://www.atmel.com/ru/ru/tools/ATMELAVRTOOLCHAINFORWINDOWS.aspx)
 
 After cloning tmk-keyboard, you will need to initialise the
 [tmk_core](https://github.com/tmk/tmk_core) submodule:
